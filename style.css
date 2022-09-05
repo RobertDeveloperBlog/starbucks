@@ -133,3 +133,7 @@ body {
   background-color: rgba(30, 57, 50, 0.1);
   cursor: pointer;
 }
+
+.green:hover {
+  background-color: hsla(0, 0%, 100%, 0.12);
+}
